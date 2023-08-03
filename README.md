@@ -1,5 +1,4 @@
 # Technical_Challenge_03.08.2023
-# Tech challenge
 
 <p align="center"> 
 <img src="https://kamisetas.com/image/bordados/Cobi-Barcelona-92-parche.gif" alt="drawing" width="200"/>
