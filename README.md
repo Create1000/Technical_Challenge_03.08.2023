@@ -1,0 +1,1 @@
+# Technical_Challenge_03.08.2023
